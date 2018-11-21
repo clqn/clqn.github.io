@@ -1,3 +1,8 @@
 # quine.xyz
 
-this is a test page
+
+{% for post in site.posts %}
+- [{{post.title}}]({{post.url}}) - {{post.date | date: "%Y-%m-%d"}}
+{% endfor %}
+
+## [colleen's cookbook](./recipes.md)
