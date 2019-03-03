@@ -7,7 +7,7 @@ I present it here halved cuz i don't normally need to make more than one loaf.
 - 2 cups flour
 - 1 tsp sugar
 - 1 tsp salt
-- 1 tsp yeast (and a pinch extra)
+- 1 heaping tsp yeast
 - 1 cup lukewarm water
 
 Mix the dry ingredients together in a bowl, add the water, and mix until the dough is consistent. Cover the bowl and let it rise in a warm place for 90 minutes.
