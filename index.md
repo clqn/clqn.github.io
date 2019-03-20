@@ -13,4 +13,4 @@ i enjoy cooking quite a bit. if you are interested in seeing what kind of stuff 
 
 ## music
 
-check out my music on my [bandcamp](clquine.bandcamp.com)
+check out my music on my [bandcamp](https://clquine.bandcamp.com)
