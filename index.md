@@ -1,6 +1,6 @@
 # quine.xyz
 
-welcome to the internet home of colleen lenin quine (she/her), an unapologetically
+welcome to the internet home of colleen lenin quine (she/her), an unapologetic
 communist lesbian witch.
 
 {% for post in site.posts %}
