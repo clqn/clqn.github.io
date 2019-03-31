@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+html, body, .markdown-body {
+    height: 100%;
+}
+
+body {
+    background-color: #610058;
+    color: #243972;
+}
+
+a {
+    color: #2b533c;
+    text-decoration: underline;
+}
+
+.markdown-body {
+    background-color: #fde2e2;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-top: 32px;
+    padding-bottom: 32px;
+
+    h1, h2 {
+        border-bottom: 1px solid darken(#fde2e2, 10%);
+    }
+}
