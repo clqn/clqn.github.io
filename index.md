@@ -1,7 +1,6 @@
 # a bunch of spiders
 
-welcome to the internet home of colleen lenin quine (she/her), an unapologetic
-communist lesbian witch.
+welcome to the internet home of colleen lenin quine (pronoun.is/she), a marxist-leninist trans dyke.
 
 {% for post in site.posts %}
 - [{{post.title}}]({{post.url}}) - {{post.date | date: "%Y-%m-%d"}}
