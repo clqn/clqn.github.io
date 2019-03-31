@@ -1,4 +1,4 @@
-# quine.xyz
+# a bunch of spiders
 
 welcome to the internet home of colleen lenin quine (she/her), an unapologetic
 communist lesbian witch.
