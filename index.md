@@ -14,3 +14,7 @@ i enjoy cooking quite a bit. if you are interested in seeing what kind of stuff 
 ## music
 
 check out my music on my [bandcamp](https://clquine.bandcamp.com)
+
+## pay me
+
+i have a ko-fi! ko-fi.com/neonpixii
