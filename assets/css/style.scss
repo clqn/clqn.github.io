@@ -13,7 +13,7 @@
     src: url("Laverick-Regular.woff");
 }
 
-html, body, .markdown-body {
+html, body {
     height: 100%;
 }
 
@@ -33,6 +33,7 @@ a {
 }
 
 .markdown-body {
+    min-height: 100%;
     background-color: #fde2e2;
     margin-top: 0 !important;
     margin-bottom: 0 !important;
