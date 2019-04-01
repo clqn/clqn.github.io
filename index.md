@@ -1,4 +1,4 @@
-# a bunch of spiders
+# a spider!!
 
 welcome to the internet home of colleen lenin quine ([pronoun.is/she](https://pronoun.is/she)), a marxist-leninist trans dyke.
 
