@@ -1,3 +1,6 @@
+[< home](../index.md)
+[< the witchin' kitchen](../recipes.md)
+
 # Apple Pie
 
 This recipe comes from my mom, who in turn got it from one of her friends (it was a family recipe of his). I havent had the opportunity to try & make it myself yet, but it's very delicious.
