@@ -24,4 +24,4 @@ i have a [ko-fi](https://ko-fi.com/neonpixii) if you think my continued existenc
 
 ## thanks
 
-thank you so much to my partner iliana ([linuxwit.ch](https://linuxwit.ch)) for helping me with the CSS on this website!! 💛💛💛
+thank you so much to my partner iliana ([linuxwit.ch](https://linuxwit.ch)) for helping me with the css on this website!! 💛💛💛
