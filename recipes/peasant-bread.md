@@ -1,8 +1,8 @@
+# peasant bread
+
 [< home](../index.md)
 
 [< witchin' kitchen](../recipes.md)
-
-# peasant bread
 
 one of the staples of my diet; this bread is cheap (about a dozen or so cents a loaf), quick (about 3 hours from start to finish), and incredibly easy (most of the time is spent waiting for it to rise or bake). the original recipe comes from from Alexandra Stafford (original picture-heavy blog post [here](https://alexandracooks.com/2012/11/07/my-mothers-peasant-bread-the-best-easiest-bread-you-will-ever-make/), with a more minimal mirror [here](https://www.kingarthurflour.com/recipes/peasant-bread-recipe))
 
