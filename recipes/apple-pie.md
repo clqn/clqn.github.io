@@ -1,8 +1,8 @@
+# apple pie
+
 [< home](../index.md)
 
 [< witchin' kitchen](../recipes.md)
-
-# apple pie
 
 this recipe comes from my mom, who in turn got it from one of her friends (it was a family recipe of his). i havent had the opportunity to try & make it myself yet, but i've eaten it, and it's very delicious.
 
