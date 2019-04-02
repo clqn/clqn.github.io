@@ -21,3 +21,7 @@ i made a sticker! it says "party girl ☭" on it and you can get one for free at
 ## pay me
 
 i have a [ko-fi](https://ko-fi.com/neonpixii) if you think my continued existence and aspirations of self-reliance is worth supporting
+
+---
+
+thank you so much to my partner (linuxwit.ch) for helping me with the CSS on this website!! 💛💛💛
