@@ -4,7 +4,7 @@
 
 [< witchin' kitchen](../recipes.md)
 
-this recipe comes from my mom, who in turn got it from one of her friends (it was a family recipe of his). i havent had the opportunity to try & make it myself yet, but i've eaten it, and it's very delicious.
+this recipe comes from my mom, who in turn got it from one of her friends (it was a family recipe of his). i havent had the opportunity to make it myself yet, but i've eaten it, and it's very delicious.
 
 ## apple filling
 
