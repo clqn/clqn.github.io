@@ -51,9 +51,8 @@ a:hover {
         border-bottom: 1px solid darken(#fde2e2, 10%);
     }
     
-    hr {
-        size: 1px;
-    }
+    hr { border: 0; height: 1px; background-color: darken(#fde2e2, 10%); }
+
     
     img {
        background-color: #fde2e2;
