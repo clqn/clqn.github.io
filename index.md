@@ -14,7 +14,7 @@ check out my music on my [bandcamp](https://clquine.bandcamp.com). i also made a
 
 ## wildlife photography
 
-i like to take pictures of spiders and bugs! you can see my latest observations (as well as my attempts at ID'ing them to the best of my ability) [here](./🕷️.md)
+i like to take pictures of spiders and bugs! you can see my latest observations (as well as my attempts at i.d.'ing them to the best of my ability) [here](./🕷️.md)
 
 ## stickers
 
