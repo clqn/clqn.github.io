@@ -8,7 +8,7 @@ welcome to the internet home of colleen lenin quine ([pronoun.is/she](https://pr
 
 ## music
 
-check out my music on my [bandcamp](https://clquine.bandcamp.com)
+check out my music on my [bandcamp](https://clquine.bandcamp.com). i also made a [cheat sheet](./files/solfège-chart.pdf) for learning chromatic solfège and musical intervals.
 
 ## stickers
 
