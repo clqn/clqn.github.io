@@ -12,6 +12,8 @@ welcome to the internet home of colleen lenin quine ([she/her](https://pronoun.i
 
 check out my music on my [bandcamp](https://clquine.bandcamp.com). i also made a [cheat sheet](./files/solfège-chart.pdf) for learning chromatic solfège and musical intervals.
 
+---
+
 ## wildlife photography
 
 i like to take pictures of spiders and bugs! you can see my latest observations (as well as my attempts at ID'ing them to the best of my ability) [here](./🕷️.md)
