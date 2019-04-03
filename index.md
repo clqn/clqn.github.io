@@ -1,6 +1,6 @@
 # a bunch of spiders!
 
-welcome to the internet home of colleen lenin quine ([pronoun.is/she](https://pronoun.is/she)), a communist trans dyke.
+welcome to the internet home of colleen lenin quine ([pronoun.is/she](https://pronoun.is/she)), a autistic marxist-leninist trans dyke.
 
 {% for post in site.posts %}
 - [{{post.title}}]({{post.url}}) - {{post.date | date: "%Y-%m-%d"}}
