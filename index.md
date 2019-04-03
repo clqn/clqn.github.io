@@ -1,6 +1,6 @@
 # a bunch of spiders!
 
-![a California Scrub Jay holding a red ribbon in its mouth, facing left](./img/scrub-jay.png){:style="max-width: 300px; background-color: none;"}
+![a California Scrub Jay holding a red ribbon in its mouth, facing left](./img/scrub-jay.png){:style="max-width: 300px;"}
 
 welcome to the internet home of colleen lenin quine ([pronoun.is/she](https://pronoun.is/she)), a autistic communist trans dyke.
 
