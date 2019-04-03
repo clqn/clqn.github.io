@@ -28,9 +28,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: #2b533c;
+    color: #fde2e2;
     text-decoration: underline;
     font-weight: bold;
+}
+
+a:hover,a:focus,a:visited:hover,a:visited:focus {
+  color: #610058;
+  background-color: #2b533c;
+  font-weight: 400;
 }
 
 .markdown-body {
