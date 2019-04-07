@@ -18,7 +18,7 @@ i like to take pictures of spiders and bugs! you can see my latest observations 
 
 ## stickers
 
-i made a sticker! it says "party girl ☭" on it and you can get one for free at [stickers.wob.app](https://stickers.wob.app)
+i designed a sticker! it says "party girl ☭" on it and you can get one for free at [stickers.wob.app](https://stickers.wob.app)
 
 ## recipies
 
