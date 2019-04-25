@@ -12,7 +12,7 @@ i adore this little chess set and am very excited about it! next time i'm on a t
 
 ![a small leather box, viewed from the top. it has an image of a night embossed on it. cyrillic letters on it read "leningrad"](../../../img/2019-04-20-chess-set-2.jpeg){:style="max-width: 300px;"}
 
-![the leather box, viewed from the front. it has a brass latch holding it closed](../img/2019-04-20-chess-set-3.jpeg){:style="max-width: 300px;"}
+![the leather box, viewed from the front. it has a brass latch holding it closed](../../../img/2019-04-20-chess-set-3.jpeg){:style="max-width: 300px;"}
 
 ![the leather box, viewed from the bottom. it has a logo of the manufacturer on it, which says in cyrillic letters "lentochmex"](../../../img/2019-04-20-chess-set-4.jpeg){:style="max-width: 300px;"}
 
