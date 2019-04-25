@@ -1,4 +1,4 @@
-# a spider and a bird!
+# spiders & birds
 
 ![a california scrub jay holding a red ribbon in its mouth, facing left](./img/scrub-jay.png){:style="max-width: 300px; float: right;"}
 
