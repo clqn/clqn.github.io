@@ -4,10 +4,6 @@
 
 welcome to the internet home of colleen lenin quine ([she/her or they/them](http://pronoun.is/she/:or/they)), a autistic communist trans dyke. scrub jay art by [g pike](http://artofgpike.com)
 
-{% for post in site.posts %}
-- [{{post.title}}]({{post.url}}) - {{post.date | date: "%Y-%m-%d"}}
-{% endfor %}
-
 ## music
 
 check out my music on my [bandcamp](https://clquine.bandcamp.com). i also made a [cheat sheet](./files/solfège-chart.pdf) for learning chromatic solfège and musical intervals.
@@ -28,6 +24,13 @@ i enjoy cooking quite a bit. if you are interested in seeing what kind of stuff 
 
 i have a [ko-fi](https://ko-fi.com/neonpixii) if you think my continued existence and aspirations of self-reliance is worth supporting
 
+## blog post
+
+sometimes i make blog posts! heres ALL of them
+{% for post in site.posts %}
+- [{{post.title}}]({{post.url}}) - {{post.date | date: "%Y-%m-%d"}}
+{% endfor %}
+
 ## thanks
 
-thank you so much to my partner iliana ([linuxwit.ch](https://linuxwit.ch)) for helping me with the css on this website!! 💛💛💛
+thank you so much to my partner iliana ([linuxwit.ch](https://linuxwit.ch)) for helping me with the css on this website!! 💛💛💛 & thank you so much to viewers like you
