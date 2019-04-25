@@ -8,9 +8,7 @@ this travel chess set was made in the ussr. it is designed so that you can close
 
 i adore this little chess set and am very excited about it! next time i'm on a train i want to put it to use :3 
 
-![a small cardboard box. the label reads: "to quine, from rosa, happy int'l day of human space flight!" <3. there are doodles of a hammer and sickle, a heart, a lesbian symbol, a pentagram, and a owl on the label. there are owl stickers on the box](../../../img/2019-04-20-chess-set-1.jpeg){:style="max-width: 300px;"}
-
-![a small leather box, viewed from the top. it has an image of a night embossed on it. cyrillic letters on it read "leningrad"](../../../img/2019-04-20-chess-set-2.jpeg){:style="max-width: 300px;"}
+![a small cardboard box. the label reads: "to quine, from rosa, happy int'l day of human space flight!" <3. there are doodles of a hammer and sickle, a heart, a lesbian symbol, a pentagram, and a owl on the label. there are owl stickers on the box](../../../img/2019-04-20-chess-set-1.jpeg){:style="max-width: 300px;"} ![a small leather box, viewed from the top. it has an image of a night embossed on it. cyrillic letters on it read "leningrad"](../../../img/2019-04-20-chess-set-2.jpeg){:style="max-width: 300px;"}
 
 ![the leather box, viewed from the front. it has a brass latch holding it closed](../../../img/2019-04-20-chess-set-3.jpeg){:style="max-width: 300px;"}
 
