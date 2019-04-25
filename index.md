@@ -24,7 +24,7 @@ i enjoy cooking quite a bit. if you are interested in seeing what kind of stuff 
 
 i have a [ko-fi](https://ko-fi.com/neonpixii) if you think my continued existence and aspirations of self-reliance is worth supporting
 
-## blog post
+## blog posts
 
 sometimes i make blog posts! heres ALL of them
 {% for post in site.posts %}
