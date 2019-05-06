@@ -4,7 +4,7 @@
 
 [< witchin' kitchen](../recipes.md)
 
-this is a recipe my pal Nemmy Nyms, a partition of [Mx. Ace Fucking Jaycee](https://acey.eerie.garden) shared with me; it's become a staple of my weekends! this is a mirror (with permission!) of hir recipe which is hosted on xeir blog [here](https://acey.eerie.garden/blog/2019/05/05/Nemnems-Pizza-Dough#post-content)
+This is a recipe my pal Nemmy Nyms, a partition of [Mx. Ace Fucking Jaycee](https://acey.eerie.garden) shared with me; it's become a staple of my weekends! This is a mirror (with permission!) of hir recipe which is hosted on xeir blog [here](https://acey.eerie.garden/blog/2019/05/05/Nemnems-Pizza-Dough#post-content)
 
 ---
 
