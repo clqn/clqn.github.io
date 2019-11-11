@@ -6,7 +6,7 @@ welcome to the internet home of colleen lenin quine ([she/her or they/them](http
 
 ## music
 
-check out my music on my [bandcamp](https://clquine.bandcamp.com). i also made a [cheat sheet](./files/solfège-chart.pdf) for learning chromatic solfège and musical intervals. happen to adore the song "A Rebuilding Year" by Griffin McElroy from TAZ: Balance? lucky for you, i've transcribed it as sheet music AND tablature [here!](./files/a-rebuilding-year.pdf)
+check out my music on my [bandcamp](https://spiders.bandcamp.com). i also made a [cheat sheet](./files/solfège-chart.pdf) for learning chromatic solfège and musical intervals. happen to adore the song "A Rebuilding Year" by Griffin McElroy from TAZ: Balance? lucky for you, i've transcribed it as sheet music AND tablature [here!](./files/a-rebuilding-year.pdf)
 
 ## wildlife photography
 
