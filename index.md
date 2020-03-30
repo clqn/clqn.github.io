@@ -20,10 +20,6 @@ i designed a sticker! it says "party girl ☭" on it and you can get one for fre
 
 i enjoy cooking quite a bit. if you are interested in seeing what kind of stuff i make, step right in to the [witchin' kitchen](./recipes.md). everything is vegetarian!
 
-## pay me
-
-i have a [ko-fi](https://ko-fi.com/neonpixii) if you think my continued existence and aspirations of self-reliance is worth supporting
-
 ## blog posts
 
 sometimes i make blog posts! heres ALL of them
