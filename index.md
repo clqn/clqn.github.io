@@ -2,7 +2,7 @@
 
 ![a california scrub jay holding a red ribbon in its mouth, facing left](./img/scrub-jay.png){:style="max-width: 300px; float: right;"}
 
-i'm spiders ([they/them](http://pronoun.is/they)),a nonbinary autistic musician & communist. i'm a white settler on stolen [Duwamish land](https://www.duwamishtribe.org).
+i'm spiders ([they/them](http://pronoun.is/they)), a nonbinary autistic musician. i live on stolen [Duwamish land](https://www.duwamishtribe.org).
 
 # music
 
