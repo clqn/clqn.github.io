@@ -2,9 +2,9 @@
 
 ![a california scrub jay holding a red ribbon in its mouth, facing left](./img/scrub-jay.png){:style="max-width: 300px; float: right;"}
 
-i'm spiders ([they/them](http://pronoun.is/they)).
+i'm spiders ([they/them](http://pronoun.is/they)).  i'm nonbinary, autistic, and i make music.  i'm also a communist witch.  i'm a white settler on stolen [Duwamish land](https://www.duwamishtribe.org).
 
-## music
+# music
 
 you can find my music at [bandcamp](https://spiders.bandcamp.com), with more half-baked stuff and demos at my [tumblr](https://neonpixii.tumblr.com). 
 
