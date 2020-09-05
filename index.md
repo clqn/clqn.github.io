@@ -6,7 +6,9 @@ i'm spiders ([they/them](http://pronoun.is/they)).
 
 ## music
 
-you can find my music at [bandcamp](https://spiders.bandcamp.com), with more half-baked stuff and demos at my [tumblr](https://neonpixii.tumblr.com). my other musical projects include a [cheat sheet](./files/solfège-chart.pdf) for learning chromatic solfège and musical intervals, as well as guitar tabs and sheet music for "A Rebuilding Year", by Griffin McElroy [here!](./files/a-rebuilding-year.pdf)
+you can find my music at [bandcamp](https://spiders.bandcamp.com), with more half-baked stuff and demos at my [tumblr](https://neonpixii.tumblr.com). 
+
+my other musical projects include a [cheat sheet](./files/solfège-chart.pdf) for learning chromatic solfège and musical intervals, as well as [guitar tabs and sheet music](./files/a-rebuilding-year.pdf) for "A Rebuilding Year", by Griffin McElroy.
 
 ## photos of spiders
 
@@ -18,13 +20,14 @@ you can find some recipes at the [witchin' kitchen](./recipes.md).
 
 ## blog posts
 
-sometimes i make blog posts! heres ALL of them
+list of blog posts:
+
 {% for post in site.posts %}
 - [{{post.title}}]({{post.url}}) - {{post.date | date: "%Y-%m-%d"}}
 {% endfor %}
 
 ## thanks
 
-thank you so much to my partner iliana ([linuxwit.ch](https://linuxwit.ch)) for helping me with the css on this website!! 💛💛💛 & thank you so much to viewers like you
+thank you so much to my partner iliana ([linuxwit.ch](https://linuxwit.ch)) for helping me with the css on this website. 
 
 scrub jay art by [g pike](http://artofgpike.com)
