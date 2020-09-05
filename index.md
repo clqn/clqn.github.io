@@ -8,7 +8,7 @@ i'm spiders ([they/them](http://pronoun.is/they)),a nonbinary autistic musician 
 
 you can find my music at [bandcamp](https://spiders.bandcamp.com), with more half-baked stuff and demos at my [tumblr](https://neonpixii.tumblr.com). 
 
-my other musical projects include a [cheat sheet](./files/solfège-chart.pdf) for learning chromatic solfège and musical intervals, as well as [guitar tabs and sheet music](./files/a-rebuilding-year.pdf) for "A Rebuilding Year", by Griffin McElroy.
+my other musical projects include a [cheat sheet](./files/solfège-chart.pdf) for learning chromatic solfège and musical intervals, as well as [guitar tabs and sheet music](./files/a-rebuilding-year.pdf) for "a rebuilding year", by griffin mcelroy.
 
 ## photos of spiders
 
