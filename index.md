@@ -2,7 +2,7 @@
 
 ![toki pona:  waso li uta e linja.  english: a california scrub jay holding a red ribbon in its mouth](./img/scrub-jay.png){:style="max-width: 300px; float: right;"}
 
-o kama pona!  mi (kulupu/soweli/tonsi) Eki.  mi pali e musi.  mi sijelo ante.  mi lon ma pi [kulupu Tuwami](https://www.duwamishtribe.org).  ma ni li lanpan tan ona.  ni li ike. sina ken pali e mani tawa ona lon [ni](https://www.realrentduwamish.org/).
+o kama pona!  mi (kulupu/soweli/tonsi) Eki.  mi pali e musi.  mi sijelo ante.  mi lon ma pi [kulupu Tutuwa (kulupu Jan Insa)]https://www.duwamishtribe.org).  ma ni li lanpan tan ona.  ni li ike. sina ken pali e mani tawa ona lon [ni](https://www.realrentduwamish.org/).
 
 ~
 
