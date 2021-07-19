@@ -1,24 +1,34 @@
-# the spiders' web
+# len sona pipi / spiderweb
 
-![a california scrub jay holding a red ribbon in its mouth, facing left](./img/scrub-jay.png){:style="max-width: 300px; float: right;"}
+![toki pona:  waso li uta e linja.  english: a california scrub jay holding a red ribbon in its mouth](./img/scrub-jay.png){:style="max-width: 300px; float: right;"}
 
-i'm spiders ([they/them](http://pronoun.is/they)), a nonbinary autistic musician. i live on stolen [Duwamish land](https://www.duwamishtribe.org).
+o kama pona!  mi (kulupu/soweli/tonsi) Eki.  mi pali e musi.  mi sijelo ante.  mi lon ma pi [kulupu Tuwami](https://www.duwamishtribe.org).  ma ni li lanpan tan ona.  ni li ike. sina ken pali e mani tawa ona lon [ni](https://www.realrentduwamish.org/).
 
-# music
+~
 
-you can find my music at [bandcamp](https://spiders.bandcamp.com), with more half-baked stuff and demos at my [tumblr](https://neonpixii.tumblr.com). 
+i'm spiders ([they/them](http://pronoun.is/they)), a nonbinary autistic artist. i live on stolen [Duwamish land](https://www.duwamishtribe.org).  this theft is wrong.  if you wish to donate money to the Duwamish people, you can do that [here](https://www.realrentduwamish.org/).
+
+# musi kalama / music
+
+kalama musi mi li lon [lipu Pankan mi](https://spiders.bandcamp.com). [lipu Tanpa mi](https://neonpixii.tumblr.com) li lape.
+
+~
+
+my music is on [bandcamp](https://spiders.bandcamp.com).  i have a [tumblr](https://neonpixii.tumblr.com) too but its inactive.
 
 my other musical projects include a [cheat sheet](./files/solfège-chart.pdf) for learning chromatic solfège and musical intervals, as well as [guitar tabs and sheet music](./files/a-rebuilding-year.pdf) for "a rebuilding year", by griffin mcelroy.
 
-## spider pics
+## sitelen pipi / spider pics
 
-photos of spider's i've seen recently can be found [here](./spider-pics.md)
+sitelen pipi li lon [ni](./spider-pics.md).  lipu ni li lape.
+
+photos of spiders i've seen recently can be found [here](./spider-pics.md).  this page is dormant anymore.
 
 ## recipies
 
 you can find some recipes at the [witchin' kitchen](./recipes.md).
 
-## blog posts
+## toki / blog posts
 
 list of blog posts:
 
