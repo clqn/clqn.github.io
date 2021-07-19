@@ -6,7 +6,7 @@ o kama pona!  mi (kulupu/soweli/tonsi) Eki.  mi pali e musi.  mi sijelo ante.  m
 
 ~
 
-i'm spiders ([they/them](http://pronoun.is/they)), a nonbinary autistic artist. i live on stolen [Duwamish land](https://www.duwamishtribe.org).  this theft is wrong.  if you wish to donate money to the Duwamish people, you can do that [here](https://www.realrentduwamish.org/).
+i'm spiders ([they/them](http://pronoun.is/they)), a nonbinary autistic artist. i live on stolen [Dxʷdəwʔabš (Duwamish) land](https://www.duwamishtribe.org).  this theft is wrong.  if you wish to donate money to the Duwamish people, you can do that [here](https://www.realrentduwamish.org/).
 
 # musi kalama / music
 
