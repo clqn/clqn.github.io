@@ -14,21 +14,14 @@ kalama musi mi li lon [lipu Pankan mi](https://spiders.bandcamp.com). [lipu Tanp
 
 ~ ~ ~
 
-my music is on [bandcamp](https://spiders.bandcamp.com).  i have a [tumblr](https://neonpixii.tumblr.com) too but its inactive.
+my music is on [bandcamp](https://spiders.bandcamp.com).  i have a [tumblr](https://neonpixii.tumblr.com) too but its inactive anymore.
 
 my other musical projects include a [cheat sheet](./files/solfège-chart.pdf) for learning chromatic solfège and musical intervals, as well as [guitar tabs and sheet music](./files/a-rebuilding-year.pdf) for "a rebuilding year", by griffin mcelroy.
 
-## sitelen pipi / spider pics
-
-sitelen pipi li lon [ni](./spider-pics.md).  lipu ni li lape.
-
-~ ~ ~
-
-photos of spiders i've seen recently can be found [here](./spider-pics.md).  this page is dormant anymore.
 
 ## sona moku / recipies
 
-sina ken kama sona moku lon [tomo moku](./recipes.md)
+sina ken kama sona moku lon [tomo moku](./recipes.md).
 
 ~ ~ ~
 
